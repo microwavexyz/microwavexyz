@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @microwavexyz
-- 👀 I’m interested in learning new types of languages!
-- 🌱 I’m currently learning C+
-- 💞️ I’m looking to collaborate on N/A
-- 📫 How to reach me DISCORD: microwave.xyz#0001
+- 👀 I am a hobbiest, I like working on RC cars and making discord bots.
+- 🌱 I’m currently learning CS, and C+
+- 💞️ I am currently collabarting with hydrogen.
+- 📫 How to reach me DISCORD: @microwave.xyz
 
